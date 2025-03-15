@@ -106,7 +106,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 <br>
 
-###### Quote of The day
+**Random Quote ✍️**
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
