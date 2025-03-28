@@ -11,6 +11,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 - 📚 I’m currently learning ...
   - _react_
   - _Flutter_
+  - _Machine learning
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games and 🎵 listening to music.
@@ -99,9 +100,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Tharunkunamalla/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
 <br>
