@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/Tharunkunamalla">Tharun</a> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl6dXR3dmkyOXJremtvYXN3N3dwZ3FpMTFwYWJqd29zaG00NXJiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9svUkATFXt26s/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/Tharunkunamalla">Tharun</a></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**_About me_**
