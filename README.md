@@ -11,7 +11,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 - 📚 I’m currently learning ...
   - _react_
   - _Flutter_
-  - _Machine learning
+  - Machine learning
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games and 🎵 listening to music.
