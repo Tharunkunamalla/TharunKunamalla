@@ -2,7 +2,7 @@
 <h1><b>Hi 👋, I'm </b><a href="https://github.com/Tharunkunamalla">Tharun Kunamalla</a></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**_About me_**
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25>&nbsp;**_About me_**
 
 <img align="right" width=200px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBkeGM5OW91Y2d3bmxjZTBjY3lwOW8waXhlM3QxMmlkb2VteG5teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 
