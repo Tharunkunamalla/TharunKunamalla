@@ -13,8 +13,6 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
   - _Flutter_
   - Machine learning
 - 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games and 🎵 listening to music.
 - 📫 Reach out to me at: <a href="tharunkunamalla7@gmail.com">tharunkunamalla7@gmail.com</a>
 <br>
 <p align="center">
