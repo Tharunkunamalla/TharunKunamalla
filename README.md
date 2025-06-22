@@ -99,13 +99,12 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Tharunkunamalla/count.svg">
 </div>
----
 <!-- [![](https://visitcount.itsvg.in/api?id=Tharunkunamalla&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
 <br>
-
+---
 **Random Quote ✍️:**
 
 <p align = "center">
