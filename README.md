@@ -81,7 +81,6 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
     <td width="50%" align="center" style="border: transparent">
         <img src="https://github-readme-stats.vercel.app/api?username=Tharunkunamalla&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
         <img src="https://nirzak-streak-stats.vercel.app/?user=Tharunkunamalla&theme=dark&hide_border=false"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkunamalla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
     <td width="50%" align="center" style="border: transparent">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tharunkunamalla&theme=nightowl&hide_border=false&langs_count=10"/>
