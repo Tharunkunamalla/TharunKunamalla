@@ -75,18 +75,15 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-<p align="center">
-<table align="center" style="border: transparent">
-  <tr>
-    <td width="50%" align="center" style="border: transparent">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tharunkunamalla&theme=nightowl&show_icons=true&count_private=true"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunkunamalla&theme=nightowl&hide_border=false"/>
-    </td>
-    <td width="50%" align="center" style="border: transparent">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tharunkunamalla&theme=nightowl&hide_border=false&langs_count=10"/>
-    </td>
-  </tr>
-</table>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tharunkunamalla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tharunkunamalla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkunamalla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Tharunkunamalla&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 <br>
 
