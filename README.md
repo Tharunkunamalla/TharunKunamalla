@@ -100,7 +100,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-**Visitor Counter🕵️‍♂️** 
+**Visitor Counter🕵️‍♂️: ** 
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Tharunkunamalla/count.svg">
@@ -108,7 +108,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 <br>
 
-**Random Quote ✍️**
+**Random Quote ✍️: **
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
