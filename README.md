@@ -8,7 +8,6 @@
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development and in AI-ML
 - 📫 Reach out to me at: <a href="tharunkunamalla7@gmail.com">tharunkunamalla7@gmail.com</a>
-<br>
 <p align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tharunkunamalla7@gmail.com)
