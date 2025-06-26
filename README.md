@@ -6,13 +6,8 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBkeGM5OW91Y2d3bmxjZTBjY3lwOW8waXhlM3QxMmlkb2VteG5teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development and in AI-ML
 
-- 📚 I’m currently learning ...
-  - _react_
-  - _Flutter_
-  - Machine learning
-- 🚀 I’m eager to join new projects.
 - 📫 Reach out to me at: <a href="tharunkunamalla7@gmail.com">tharunkunamalla7@gmail.com</a>
 <br>
 <p align="center">
