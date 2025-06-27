@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi 👋, I'm </b><a href="https://github.com/Tharunkunamalla">Tharun Kunamalla</a></h1>
 <br>
 
