@@ -62,6 +62,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 <br>
 
+<!-- nothing -->
 <!-- Github Stats -->
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**_Github Stats_**
