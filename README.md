@@ -91,6 +91,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --->
 <br>
+![](https://github-contributor-stats.vercel.app/api?username=Tharunkunamalla&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 <br>
 
 **Random Quote ✍️:**
