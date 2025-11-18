@@ -61,6 +61,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 <br>
 <br>
+
 <!-- Github Stats -->
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**_Github Stats_**
