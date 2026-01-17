@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 <h1><b>Hi 👋,  I'm </b><a href="https://github.com/Tharunkunamalla">TharunKunamalla</a></h1>
-
-
 <br>
 
 <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width = 25>&nbsp;**_About me_**
