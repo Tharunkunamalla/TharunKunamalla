@@ -73,7 +73,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <table align="center" style="border: transparent">
   <tr>
     <td width="50%" align="center" style="border: transparent">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tharunkunamalla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
+        <img src="https://github-readme-mwendwa.vercel.app/api?username=Tharunkunamalla&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)"/>
         <img src="https://nirzak-streak-stats.vercel.app/?user=Tharunkunamalla&theme=transparent&hide_border=false"/>
     </td>
     <td width="50%" align="center" style="border: transparent">
