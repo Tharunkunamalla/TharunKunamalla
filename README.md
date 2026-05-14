@@ -7,7 +7,16 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBkeGM5OW91Y2d3bmxjZTBjY3lwOW8waXhlM3QxMmlkb2VteG5teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in MERN and in both back-end and front-end development and in AI-ML.
+I am a **Computer Science** student who is passionate about building useful digital products and improving problem-solving skills every day. I am currently expanding my knowledge in **MERN stack development**, **front-end** and **back-end development**, and **AI/ML**.
+
+I enjoy learning how systems work, turning ideas into working projects, and writing clean code that solves real problems
+<br>
+# 🚀 What I Do
+💻 Practice DSA regularly to strengthen problem-solving and interview readiness<br>
+🌐 Build projects using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and MySQL<br>
+🧠 Explore AI/ML concepts and keep improving my technical foundation<br>
+🔧 Work with tools like Git, GitHub, Postman, and VS Code<br>
+📚 Keep learning new technologies and applying them through hands-on projects <br>
 - 📫 Reach out to me at: <a href="tharunkunamalla7@gmail.com">tharunkunamalla7@gmail.com</a>
 <p align="center">
 
