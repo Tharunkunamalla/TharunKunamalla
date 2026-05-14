@@ -24,7 +24,8 @@ I enjoy learning how systems work, turning ideas into working projects, and writ
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tharunkunamalla7@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Tharunk0509)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/__tharun_0509.__/)  
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://portfolio-tharun-kunamalla.vercel.app/)  
+<!-- [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://portfolio-tharun-kunamalla.vercel.app/) -->
+ [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://portfolio-tharunkunamalla.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/giyu_tomioka_95)
 
 </p>
