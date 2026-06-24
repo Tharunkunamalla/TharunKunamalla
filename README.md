@@ -84,7 +84,7 @@ I enjoy learning how systems work, turning ideas into working projects, and writ
 <table align="center" style="border: transparent">
   <tr>
     <td width="50%" align="center" style="border: transparent">
-        <img src="https://github-readme-mwendwa.vercel.app/api?username=Tharunkunamalla&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharunkunamalla&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
         <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Tharunkunamalla&theme=transparent&hide_border=false"/> -->
 		<img src="https://streak-stats.demolab.com/?user=Tharunkunamalla&theme=transparent&hide_border=false"/>
     </td>
